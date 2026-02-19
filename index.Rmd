@@ -7,11 +7,9 @@ links:
   - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
     url: "https://twitter.com/EveliaCoss/"
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
-    url: "https://github.com/EveliaCoss/"
+    url: "https://github.com/Natalie B PinedaM/"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:natalie.appstor@hotmail.com"
-  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
-    url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
   postcards::jolla
 ---

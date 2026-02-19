@@ -2,10 +2,6 @@
 title: "Natalie B PinedaM"
 image: "foto1_ENES.jpg"
 links:
-  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
-    url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
-  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
-    url: "https://twitter.com/EveliaCoss/"
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
     url: "https://github.com/Natalie B PinedaM/"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
@@ -25,7 +21,7 @@ I’m currently undertaking a project assessing the phylogenetic ties of a previ
 
 #### **Education**
 
-**Genomic Science (LCGEJ)** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | February 2024 - Present
+**Genomic Science (LCGEJ)** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | August 2024 - Present
 
 #### **Experience**
 

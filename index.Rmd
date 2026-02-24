@@ -7,7 +7,7 @@ links:
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:natalie.appstor@hotmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
@@ -28,3 +28,4 @@ I’m currently undertaking a project assessing the phylogenetic ties of a previ
 **PopGen & EvoBio + Genomic Medicine** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Federico Sanchez Q.] | February 2025 - Present
 
 Repository Contributions: 
+Coming soon...

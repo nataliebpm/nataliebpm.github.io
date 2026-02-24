@@ -3,7 +3,7 @@ title: "Natalie B PinedaM"
 image: "foto1_ENES.jpg"
 links:
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
-    url: "https://github.com/Natalie B PinedaM/"
+    url: "https://github.com/nataliebpm"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:natalie.appstor@hotmail.com"
 output:
